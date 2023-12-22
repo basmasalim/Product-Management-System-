@@ -2,6 +2,9 @@
 ## Overview
 This is a simple CRUD (Create, Read, Update, Delete) application for managing products and categories. The application provides a user interface to add, edit, and delete both categories and products. It also includes a DataTable for displaying and managing the product data.
 
+![image](https://github.com/basmasalim/Product-Management-System-/assets/125481348/b3add175-0c20-4ad3-b413-10a8ad5d8a70)
+
+
 ## Features
 <ul>
   <li>Categories
@@ -45,7 +48,7 @@ No installation is required. Simply open the `index.html` file in a web browser.
 
 Experience the Tabs Project in action! Click the link below to access the live demo:
 
-### [Live Demo](https://basmasalim.github.io/Product-Management-System-CRUD-/)
+### [Live Demo](https://basmasalim.github.io/Product-Management-System-/)
 
 Feel free to interact with the project, browse through different jobs, and explore the user-friendly interface. The live demo provides a hands-on experience to see the Tabs Project in action.
 
