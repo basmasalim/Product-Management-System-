@@ -36,9 +36,13 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing pr
 
 ## Usage
 1- Open the `index.html` file in a web browser.
+
 2- Use the provided form to add new categories and products.
+
 3- View and manage the data in the DataTable.
+
 4- Edit or delete existing categories and products.
+
 5- Export the DataTable to a PDF using the "Download" button.
 
 ## Installation
